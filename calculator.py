@@ -11,7 +11,7 @@ def div(num1, num2):
     return num1 / num2
 
 def sqr(num):
-    return num*num
+    return num * num
 
 
 result = add(1, 2)
