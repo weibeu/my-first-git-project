@@ -13,6 +13,9 @@ def div(num1, num2):
 def sqr(num):
     return num * num
 
+def mod(num1, num2):
+    return num1 % num2
+
 
 result = add(1, 2)
 print(result)
